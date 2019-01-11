@@ -156,11 +156,18 @@ img {
   section {
     padding-left: 3rem;
     padding-right: 3rem;
-    width: 100%;
+    max-width: 100%;
   }
 
   .img-flex {
-    width: 60%;
+    width: 40%;
+  }
+
+  .text {
+    padding-top: 1.7rem;
+    padding-left: 7.48rem;
+    padding-right: 2rem;
+    width: 50%;
   }
 
 }
